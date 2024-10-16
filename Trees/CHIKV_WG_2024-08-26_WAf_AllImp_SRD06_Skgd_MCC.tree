@@ -3,7 +3,7 @@
 Begin taxa;
 	Dimensions ntax=34;
 	Taxlabels
-		CHIKV-66222_Cote-Ivoire_2023-06-21
+		CHIKV-66622_Cote-Ivoire_2023-06-21
 		CHIKV-68001_Cote-Ivoire_2023-08-10
 		CHIKV-76319-1_Cote-Ivoire_2024-07-07
 		CHIKV-76987-2_Cote-Ivoire_2024
@@ -42,7 +42,7 @@ End;
 
 Begin trees;
 	Translate
-		1 CHIKV-66222_Cote-Ivoire_2023-06-21,
+		1 CHIKV-66622_Cote-Ivoire_2023-06-21,
 		2 CHIKV-68001_Cote-Ivoire_2023-08-10,
 		3 CHIKV-76319-1_Cote-Ivoire_2024-07-07,
 		4 CHIKV-76987-2_Cote-Ivoire_2024,
